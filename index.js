@@ -6,7 +6,7 @@ cliente1.nome = "João Penha";
 cliente1.cpf = 11122233309;
 
 const cliente2 = new Cliente();
-cliente2.nome = "Joana";
+cliente2.nome = "Aline";
 cliente2.cpf = 88822233309;
 
 
