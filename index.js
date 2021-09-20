@@ -2,7 +2,7 @@ import { Cliente } from "./Cliente.js";
 import { ContaCorrente } from "./ContaCorrente.js";
 
 const cliente1 = new Cliente();
-cliente1.nome = "João Penha";
+cliente1.nome = "Vitor Henrique";
 cliente1.cpf = 11122233309;
 
 const cliente2 = new Cliente();
